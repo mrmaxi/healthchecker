@@ -1,0 +1,8 @@
+apscheduler
+aiohttp
+gevent
+kafka-python
+psycopg2
+requests
+pytest
+pytest-aiohttp
