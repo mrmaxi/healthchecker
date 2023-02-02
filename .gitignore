@@ -4,5 +4,6 @@
 # Compiled Python bytecode
 *.py[cod]
 
-# credentials
+# credentials and settings
+/conf
 local_settings.py
